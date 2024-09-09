@@ -34,7 +34,7 @@ root.columnconfigure(2, weight=1)
 root.rowconfigure(0, weight=1)
 root.rowconfigure(7, weight=1)
 
-# Placce widgets
+# Place widgets
 text_welcome.grid(row=1, column=1)
 text_to.grid(row=2, column=1)
 text_drs.grid(row=3, column=1)
